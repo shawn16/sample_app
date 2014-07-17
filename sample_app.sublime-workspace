@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"email",
+				"email"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"puts_",
+				"puts_two_again"
+			],
+			[
+				"o",
+				"open"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"cars",
+				"cars"
+			],
+			[
+				"driv",
+				"drivers"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/initializers/secret_token.rb",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# Ruby on Rails Tutorial: sample application\n\nThis is the sample application for\nthe [*Ruby on Rails Tutorial*] (http://railstutorial.org/)\nby [Michael Hartl] (http://michaelhartl.com).",
+			"file": "README.rdoc",
+			"file_size": 185,
+			"file_write_time": 1405567823000000,
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 233.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/controllers/visitors_controller.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/models/contact.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/config/secrets.yml",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/contacts/new.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/controllers/contacts_controller.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/config/routes.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/layouts/_navigation_links.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/pages/about.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/config/application.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/pages/contact.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/Gemfile",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/layouts/application.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/assets/stylesheets/application.css.scss",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/assets/stylesheets/simple.css",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/layouts/_messages.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/layouts/_navigation.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/models/owner.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/lib/example.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/views/visitors/new.html.erb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/public/about.html",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/public/index.html",
+		"/Users/shawnsiemers/.bash_profile",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/config/environments/development.rb",
+		"/Users/shawnsiemers/rails_projects/workspace/learn-rails/app/controllers/application_controller.rb",
+		"/Users/shawnsiemers/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/shawnsiemers/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/Users/shawnsiemers/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/shawnsiemers/rails_projects/first_app/Gemfile",
+		"/Users/shawnsiemers/Desktop/programs/ex31.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex30.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex29.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex21.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex20.rb",
+		"/Users/shawnsiemers/Desktop/programs/test.txt",
+		"/Users/shawnsiemers/Desktop/programs/ex19.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex18.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex15.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex15_sample.txt",
+		"/Users/shawnsiemers/Desktop/programs/ex14.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex13.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex12.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex11.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex6.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex5.rb",
+		"/Users/shawnsiemers/Desktop/programs/ex4.rb",
+		"/Users/shawnsiemers/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/shawnsiemers/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/shawnsiemers/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/initializers/secret_token.rb",
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.rdoc",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
