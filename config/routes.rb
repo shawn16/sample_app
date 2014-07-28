@@ -1,6 +1,5 @@
 SampleApp::Application.routes.draw do
-  get "users/new"
-
+  resources :users
   root  'static_pages#home'
   # root_path -> '/'  and root_url -> 'http://localhost:3000/'
   match '/signup',  to: 'users#new',            via: 'get'
